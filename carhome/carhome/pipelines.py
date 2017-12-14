@@ -3,10 +3,10 @@
 import MySQLdb
 import redis
 
-dbuser = 'root'
-dbpass = 'gaoxia'
+dbuser = ''
+dbpass = ''
 dbname = 'cardb'
-dbhost = '120.24.229.126'
+dbhost = ''
 dbport = '3306'
 
 
